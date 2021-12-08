@@ -1,3 +1,5 @@
+# Using tkinter and turtle, draws shapes with options for colors
+
 from tkinter import *
 from tkinter import _tkinter
 import sys,turtle,numpy
