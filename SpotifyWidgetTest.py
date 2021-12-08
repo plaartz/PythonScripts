@@ -1,3 +1,5 @@
+# Using spotify API get current soundtrack
+
 import sys
 import os
 import json
